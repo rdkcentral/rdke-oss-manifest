@@ -7,10 +7,6 @@
   <annotation name="MANIFEST_EXPORT_PATH" value="MANIFEST_PATH_SCRIPTS"/>
   </project>
 
-  <project groups="imagebuilder" name="meta-image-support" path="rdke/common/meta-image-support" remote="rdkcentral" revision="refs/tags/4.1.2">
-  <annotation name="MANIFEST_EXPORT_PATH" value="MANIFEST_PATH_IMAGE_SUPPORT"/>
-  </project>
-
   <project groups="layers" name="meta-rdk-auxiliary" path="rdke/common/meta-rdk-auxiliary" remote="rdkcentral" revision="refs/tags/4.1.4">
   <annotation name="MANIFEST_EXPORT_PATH" value="MANIFEST_PATH_RDK_AUXILIARY"/>
   </project>
