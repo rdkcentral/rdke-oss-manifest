@@ -10,6 +10,6 @@
   <annotation name="MANIFEST_EXPORT_PATH" value="MANIFEST_PATH_OSS_EXT"/>
   </project>
 
-  <submanifest name="rdkcentral_submanifest" project="rdke-oss-manifest" manifest-name="rdk-oss-generic-arm.xml" path="rdkcentral" remote="rdkcentral" revision="feature/RDKOSS-193">
+  <submanifest name="rdkcentral_submanifest" project="rdke-oss-manifest" manifest-name="rdk-oss-generic-arm.xml" path="rdkcentral" remote="rdkcentral" revision="develop">
   </submanifest>
 </manifest>
