@@ -7,11 +7,11 @@
   <annotation name="MANIFEST_EXPORT_PATH" value="MANIFEST_PATH_COMMON_CONFIG" />
   </project>
 
-  <project groups="layers" name="meta-rdk-auxiliary" path="rdke/common/meta-rdk-auxiliary" remote="rdkcentral" revision="refs/tags/1.0.0">
+  <project groups="layers" name="meta-rdk-auxiliary" path="rdke/common/meta-rdk-auxiliary" remote="rdkcentral" revision="refs/tags/1.1.0">
   <annotation name="MANIFEST_EXPORT_PATH" value="MANIFEST_PATH_RDK_AUXILIARY"/>
   </project>
 
-  <project groups="stacklayering" name="meta-stack-layering-support" path="rdke/common/meta-stack-layering-support" remote="rdkcentral" revision="develop">
+  <project groups="stacklayering" name="meta-stack-layering-support" path="rdke/common/meta-stack-layering-support" remote="rdkcentral" revision="refs/tags/1.2.0">
   <annotation name="MANIFEST_EXPORT_PATH" value="MANIFEST_PATH_STACK_LAYERING_SUPPORT" />
   </project>
 
@@ -20,7 +20,7 @@
   <annotation name="MANIFEST_EXPORT_PATH1" value="MANIFEST_PATH_PRODUCT_LAYER"/>
   </project>
 
-  <project groups="layers" name="meta-rdk-oss-reference" path="rdke/common/meta-rdk-oss-reference" remote="rdkcentral" revision="refs/tags/1.0.0">
+  <project groups="layers" name="meta-rdk-oss-reference" path="rdke/common/meta-rdk-oss-reference" remote="rdkcentral" revision="refs/tags/1.1.0">
   <annotation name="MANIFEST_EXPORT_PATH" value="MANIFEST_PATH_COMMON_OSS_REFERENCE"/>
   </project>
 
@@ -28,7 +28,7 @@
   <annotation name="MANIFEST_EXPORT_PATH" value="MANIFEST_PATH_OPENEMBEDDED"/>
   </project>
 
-  <project groups="oe" name="poky" path="rdke/common/poky" remote="rdkcentral" revision="refs/tags/rdk-4.0.0">
+  <project groups="oe" name="poky" path="rdke/common/poky" remote="rdkcentral" revision="refs/tags/rdk-4.1.0">
   <annotation name="MANIFEST_EXPORT_PATH" value="MANIFEST_PATH_POKY"/>
   </project>
 
