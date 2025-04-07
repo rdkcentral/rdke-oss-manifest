@@ -7,7 +7,7 @@
   <annotation name="MANIFEST_EXPORT_PATH" value="MANIFEST_PATH_COMMON_CONFIG" />
   </project>
 
-  <project groups="layers" name="meta-rdk-auxiliary" path="rdke/common/meta-rdk-auxiliary" remote="rdkcentral" revision="refs/tags/1.1.0">
+  <project groups="layers" name="meta-rdk-auxiliary" path="rdke/common/meta-rdk-auxiliary" remote="rdkcentral" revision="7809c2ccb226656730a8cdf7eedb12a5a123f609">
   <annotation name="MANIFEST_EXPORT_PATH" value="MANIFEST_PATH_RDK_AUXILIARY"/>
   </project>
 
