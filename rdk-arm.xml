@@ -6,10 +6,10 @@
   <annotation name="MANIFEST_EXPORT_PATH" value="MANIFEST_PATH_SCRIPTS"/>
   </project>
 
-  <project groups="extention" name="meta-oss-common-config" path="rdke/configs/ext" remote="rdkcentral" revision="develop">
+  <project groups="extention" name="meta-oss-common-config" path="rdke/configs/ext" remote="rdkcentral" revision="refs/tags/1.0.2">
   <annotation name="MANIFEST_EXPORT_PATH" value="MANIFEST_PATH_OSS_EXT"/>
   </project>
 
-  <submanifest name="rdkcentral_submanifest" project="rdke-oss-manifest" manifest-name="rdk-oss-generic-arm.xml" path="rdkcentral" remote="rdkcentral" revision="develop">
+  <submanifest name="rdkcentral_submanifest" project="rdke-oss-manifest" manifest-name="rdk-oss-generic-arm.xml" path="rdkcentral" remote="rdkcentral" revision="refs/tags/4.5.0">
   </submanifest>
 </manifest>
