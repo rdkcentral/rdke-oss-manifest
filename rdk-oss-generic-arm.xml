@@ -28,7 +28,7 @@
   <annotation name="MANIFEST_EXPORT_PATH" value="MANIFEST_PATH_OPENEMBEDDED"/>
   </project>
 
-  <project groups="oe" name="poky" path="rdke/common/poky" remote="rdkcentral" revision="refs/tags/rdk-4.2.0">
+  <project groups="oe" name="poky" path="rdke/common/poky" remote="rdkcentral" revision="refs/tags/rdk-4.3.0">
   <annotation name="MANIFEST_EXPORT_PATH" value="MANIFEST_PATH_POKY"/>
   </project>
 
