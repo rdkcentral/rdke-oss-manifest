@@ -20,7 +20,7 @@
   <annotation name="MANIFEST_EXPORT_PATH1" value="MANIFEST_PATH_PRODUCT_LAYER"/>
   </project>
 
-  <project groups="layers" name="meta-rdk-oss-reference" path="rdke/common/meta-rdk-oss-reference" remote="rdkcentral" revision="30038a55640d370d4dfe07b2aa5be1b9b13cce85">
+  <project groups="layers" name="meta-rdk-oss-reference" path="rdke/common/meta-rdk-oss-reference" remote="rdkcentral" revision="aadec1e708b34c051517905952c73d7646861373">
   <annotation name="MANIFEST_EXPORT_PATH" value="MANIFEST_PATH_COMMON_OSS_REFERENCE"/>
   </project>
 
