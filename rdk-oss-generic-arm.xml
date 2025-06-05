@@ -3,7 +3,7 @@
   <yocto version="kirkstone" />
   <remote fetch="https://github.com/rdkcentral" name="rdkcentral" review="https://github.com/rdkcentral" />
 
-  <project groups="configs" name="rdke-common-config" path="rdke/configs/common" remote="rdkcentral" revision="refs/tags/1.0.1">
+  <project groups="configs" name="rdke-common-config" path="rdke/configs/common" remote="rdkcentral" revision="refs/tags/1.0.4">
   <annotation name="MANIFEST_EXPORT_PATH" value="MANIFEST_PATH_COMMON_CONFIG" />
   </project>
 
@@ -11,16 +11,16 @@
   <annotation name="MANIFEST_EXPORT_PATH" value="MANIFEST_PATH_RDK_AUXILIARY"/>
   </project>
 
-  <project groups="stacklayering" name="meta-stack-layering-support" path="rdke/common/meta-stack-layering-support" remote="rdkcentral" revision="refs/tags/1.2.0">
+  <project groups="stacklayering" name="meta-stack-layering-support" path="rdke/common/meta-stack-layering-support" remote="rdkcentral" revision="refs/tags/2.0.3">
   <annotation name="MANIFEST_EXPORT_PATH" value="MANIFEST_PATH_STACK_LAYERING_SUPPORT" />
   </project>
 
-  <project groups="layers" name="meta-oss-reference-development" path="rdke/common/meta-oss-reference-development" remote="rdkcentral" revision="refs/tags/1.0.0">
+  <project groups="layers" name="meta-oss-reference-development" path="rdke/common/meta-oss-reference-development" remote="rdkcentral" revision="0184caa080fbe0bc7945e923b287e065476b9445">
   <annotation name="MANIFEST_EXPORT_PATH" value="MANIFEST_PATH_BBLAYERS_TEMPLATE"/>
   <annotation name="MANIFEST_EXPORT_PATH1" value="MANIFEST_PATH_PRODUCT_LAYER"/>
   </project>
 
-  <project groups="layers" name="meta-rdk-oss-reference" path="rdke/common/meta-rdk-oss-reference" remote="rdkcentral" revision="refs/tags/4.6.4">
+  <project groups="layers" name="meta-rdk-oss-reference" path="rdke/common/meta-rdk-oss-reference" remote="rdkcentral" revision="f1af09a8c5a0619196081a95fe478d5f24531225">
   <annotation name="MANIFEST_EXPORT_PATH" value="MANIFEST_PATH_COMMON_OSS_REFERENCE"/>
   </project>
 
@@ -28,7 +28,7 @@
   <annotation name="MANIFEST_EXPORT_PATH" value="MANIFEST_PATH_OPENEMBEDDED"/>
   </project>
 
-  <project groups="oe" name="poky" path="rdke/common/poky" remote="rdkcentral" revision="refs/tags/rdk-4.3.0">
+  <project groups="oe" name="poky" path="rdke/common/poky" remote="rdkcentral" revision="c824f1b879eba0cfb0efbb45fc0af0eb2b2bbb78">
   <annotation name="MANIFEST_EXPORT_PATH" value="MANIFEST_PATH_POKY"/>
   </project>
 
