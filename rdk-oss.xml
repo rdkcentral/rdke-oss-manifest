@@ -6,11 +6,11 @@
   <annotation name="MANIFEST_EXPORT_PATH" value="MANIFEST_PATH_SCRIPTS"/>
   </project>
 
-  <project groups="configs" name="rdke-common-config" path="rdke/configs/common" remote="rdkcentral" revision="refs/tags/1.0.4">
+  <project groups="configs" name="rdke-common-config" path="rdke/configs/common" remote="rdkcentral" revision="refs/tags/1.0.5">
   <annotation name="MANIFEST_EXPORT_PATH" value="MANIFEST_PATH_COMMON_CONFIG" />
   </project>
 
-  <project groups="extention" name="meta-oss-common-config" path="rdke/configs/ext" remote="rdkcentral" revision="refs/tags/1.2.0">
+  <project groups="extention" name="meta-oss-common-config" path="rdke/configs/ext" remote="rdkcentral" revision="refs/tags/1.3.0">
   <annotation name="MANIFEST_EXPORT_PATH" value="MANIFEST_PATH_OSS_EXT"/>
   </project>
 
