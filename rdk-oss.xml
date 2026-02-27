@@ -6,7 +6,7 @@
   <annotation name="MANIFEST_EXPORT_PATH" value="MANIFEST_PATH_SCRIPTS"/>
   </project>
 
-  <project groups="configs" name="rdke-common-config" path="rdke/configs/common" remote="rdkcentral" revision="refs/tags/1.0.13">
+  <project groups="configs" name="rdke-common-config" path="rdke/configs/common" remote="rdkcentral" revision="refs/tags/1.0.17">
   <annotation name="MANIFEST_EXPORT_PATH" value="MANIFEST_PATH_COMMON_CONFIG" />
   </project>
 
@@ -14,7 +14,7 @@
   <annotation name="MANIFEST_EXPORT_PATH" value="MANIFEST_PATH_OSS_EXT"/>
   </project>
 
-  <submanifest name="rdkcommon_submanifest" project="rdk-oss-common-manifest" manifest-name="rdk-oss-common.xml" path="rdke/common/oss" remote="rdkcentral" revision="890ca1fc585faadb00ae047825002b191368239c">
+  <submanifest name="rdkcommon_submanifest" project="rdk-oss-common-manifest" manifest-name="rdk-oss-common.xml" path="rdke/common/oss" remote="rdkcentral" revision="05209165eb92cdcc86016adf89d255af91478b7d">
   </submanifest>
 
 </manifest>
