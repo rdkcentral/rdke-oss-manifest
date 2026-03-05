@@ -22,7 +22,7 @@
   <annotation name="MANIFEST_EXPORT_PATH" value="MANIFEST_PATH_STACK_LAYERING_SUPPORT"/>
   </project>
 
-  <submanifest name="rdkcommon_submanifest" project="rdk-oss-common-manifest" manifest-name="rdk-oss-common.xml" path="rdke/common/oss" remote="rdkcentral" revision="feature/RDKE-1024-Add-Prebuilt-Generator-Support-for-Docker">
+  <submanifest name="rdkcommon_submanifest" project="rdk-oss-common-manifest" manifest-name="rdk-oss-common.xml" path="rdke/common/oss" remote="rdkcentral" revision="feature/RDKE-1024-Add-Prebuilt-Generator-Support-for-Docker-latest">
   </submanifest>
 
 </manifest>
