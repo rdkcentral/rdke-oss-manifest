@@ -14,15 +14,15 @@
   <annotation name="MANIFEST_EXPORT_PATH" value="MANIFEST_PATH_OSS_EXT"/>
   </project>
 
-  <project groups="docker" name="meta-native-prebuilt-generator" path="rdke/common/native-prebuilt-generator" remote="rdkcentral" revision="refs/tags/1.0.0">
+  <project groups="docker" name="meta-native-prebuilt-generator" path="rdke/common/native-prebuilt-generator" remote="rdkcentral" revision="refs/tags/1.0.1">
   <annotation name="MANIFEST_EXPORT_PATH" value="MANIFEST_PATH_DOCKER_GENERATOR"/>
   </project>
 
-  <project groups="buildsupport" name="meta-stack-layering-support" path="rdke/common/meta-stack-layering-support" remote="rdkcentral" revision="refs/tags/3.2.0">
+  <project groups="buildsupport" name="meta-stack-layering-support" path="rdke/common/meta-stack-layering-support" remote="rdkcentral" revision="refs/tags/3.2.1">
   <annotation name="MANIFEST_EXPORT_PATH" value="MANIFEST_PATH_STACK_LAYERING_SUPPORT"/>
   </project>
 
-  <submanifest name="rdkcommon_submanifest" project="rdk-oss-common-manifest" manifest-name="rdk-oss-common.xml" path="rdke/common/oss" remote="rdkcentral" revision="feature/RDKE-1024-Add-Prebuilt-Generator-Support-for-Docker-latest">
+  <submanifest name="rdkcommon_submanifest" project="rdk-oss-common-manifest" manifest-name="rdk-oss-common.xml" path="rdke/common/oss" remote="rdkcentral" revision="7ea8a6693f0996541338e9e04da5ef0d8b45770f">
   </submanifest>
 
 </manifest>
