@@ -18,7 +18,7 @@
   <annotation name="MANIFEST_EXPORT_PATH" value="MANIFEST_PATH_DOCKER_GENERATOR"/>
   </project>
 
-  <project groups="buildsupport" name="meta-stack-layering-support" path="rdke/common/meta-stack-layering-support" remote="rdkcentral" revision="refs/tags/3.2.1">
+  <project groups="buildsupport" name="meta-stack-layering-support" path="rdke/common/meta-stack-layering-support" remote="rdkcentral" revision="refs/tags/3.3.0">
   <annotation name="MANIFEST_EXPORT_PATH" value="MANIFEST_PATH_STACK_LAYERING_SUPPORT"/>
   </project>
 
