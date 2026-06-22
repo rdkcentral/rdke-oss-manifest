@@ -14,7 +14,7 @@
   <annotation name="MANIFEST_EXPORT_PATH" value="MANIFEST_PATH_OSS_EXT"/>
   </project>
 
-  <submanifest name="rdkcommon_submanifest" project="rdk-oss-common-manifest" manifest-name="rdk-oss-common.xml" path="rdke/common/oss" remote="rdkcentral" revision="refs/tags/4.13.0">
+  <submanifest name="rdkcommon_submanifest" project="rdk-oss-common-manifest" manifest-name="rdk-oss-common.xml" path="rdke/common/oss" remote="rdkcentral" revision="3e359ee7c4cb6a072e411b3347b2c776a09f453d">
   </submanifest>
 
 </manifest>
