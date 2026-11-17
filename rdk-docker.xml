@@ -1,12 +1,12 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version='1.0' encoding='utf-8'?>
 <manifest>
   <remote fetch="https://github.com/rdkcentral" name="rdkcentral" review="https://github.com/rdkcentral" />
 
   <project groups="buildscripts" name="build-scripts" path="scripts" remote="rdkcentral" revision="refs/tags/1.0.3">
-  <annotation name="MANIFEST_EXPORT_PATH" value="MANIFEST_PATH_SCRIPTS"/>
+  <annotation name="MANIFEST_EXPORT_PATH" value="MANIFEST_PATH_SCRIPTS" />
   </project>
 
-  <project groups="configs" name="rdke-common-config" path="rdke/configs/common" remote="rdkcentral" revision="refs/tags/1.0.17">
+  <project groups="configs" name="rdke-common-config" path="rdke/configs/common" remote="rdkcentral" revision="c903fe33b7ba480f48a961fe7cc3e9b164621236">
   <annotation name="MANIFEST_EXPORT_PATH" value="MANIFEST_PATH_COMMON_CONFIG" />
   </project>
 
@@ -14,11 +14,11 @@
   </submanifest>
 
   <project groups="docker" name="meta-native-prebuilt-generator" path="rdke/common/native-prebuilt-generator" remote="rdkcentral" revision="refs/tags/1.0.1">
-  <annotation name="MANIFEST_EXPORT_PATH" value="MANIFEST_PATH_DOCKER_GENERATOR"/>
+  <annotation name="MANIFEST_EXPORT_PATH" value="MANIFEST_PATH_DOCKER_GENERATOR" />
   </project>
 
   <project groups="buildsupport" name="meta-stack-layering-support" path="rdke/common/meta-stack-layering-support" remote="rdkcentral" revision="refs/tags/4.0.5">
-  <annotation name="MANIFEST_EXPORT_PATH" value="MANIFEST_PATH_STACK_LAYERING_SUPPORT"/>
+  <annotation name="MANIFEST_EXPORT_PATH" value="MANIFEST_PATH_STACK_LAYERING_SUPPORT" />
   </project>
 
 </manifest>
